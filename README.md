@@ -12,7 +12,7 @@ The date range picker component was built with React and TypeScript.
 
 ## Setup Instructions
 
-To get the Custom Date Range Picker component running, follow these steps:
+To get the Date Range Picker component running, follow these steps:
 
 1. Ensure you have Node.js (version 14 or later) and npm installed on your system.
 
